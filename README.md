@@ -1,0 +1,1 @@
+I've been coding for a while in various languages (C, C++, C#, Fortran, Python, Java, VBA, Matlab, you name it), but I do not have background in computer science. All I have is an infinite love for computer stuff, both hardware and software, and I have zero fear for coding. I figure it's time for me to start committing some of my side-hustle projects.
